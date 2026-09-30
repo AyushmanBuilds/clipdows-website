@@ -1,11 +1,69 @@
 # ClipDows
-> ClipDows is a clipboard manager for Windows by Ayushmanbuilds. It saves text, links, images, code and files you copy, searches inside screenshots offline, and syncs end-to-end encrypted to your phone.
 
-## Key facts
-- Platform: Windows desktop app plus a phone web app (PWA)
-- Plans: Free, Pro, Max. New accounts get a 14-day Pro trial
-- Privacy: clips are encrypted before upload; passwords, OTPs, cards and API keys are masked and never synced
-- Shortcuts: Alt+C show/hide, Ctrl+F search, Ctrl+Alt+C start Paste stack, Ctrl+Alt+V paste in order
+> ClipDows is a Windows clipboard manager by Ayushmanbuilds. It keeps clipboard history searchable, can find text inside screenshots offline, provides Snippets and Paste Stack, and can sync supported clips with a paired phone.
 
-## Pages
-- [Home](https://YOUR-DOMAIN.com/): features, usage, install steps, pricing, FAQ
+## Official website
+- https://clipdows.vercel.app/
+
+## Product identity
+- Name: ClipDows
+- Category: Windows clipboard manager / clipboard history utility
+- Publisher: Ayushmanbuilds
+- Platform: Windows 10 and Windows 11, 64-bit
+- Phone companion: ClipDows phone web app (PWA)
+- Current version: 0.1.0
+- Official source/repository: https://github.com/AyushmanBuilds/clipdows
+
+## What ClipDows does
+- Saves copied text, links, images, code, files and snippets.
+- Provides searchable clipboard history.
+- Searches text inside screenshots locally/offline.
+- Provides Snippets for reusable text.
+- Provides Paste Stack for pasting multiple copied items in order.
+- Provides Instant Actions for supported transformations such as formatting JSON.
+- Supports pinned items, Trash and clipboard history management.
+- Supports keyboard shortcuts including Alt+C, Ctrl+F, Ctrl+Alt+C and Ctrl+Alt+V.
+- Can pair a phone and sync supported clipboard data between paired devices.
+- Provides privacy controls including ignored apps and sensitive-data handling.
+
+## Plans
+- Free: 100 clipboard clips, 5 screenshot-text searches/month, 1 linked phone, and other limits shown on the official pricing table.
+- Pro: higher limits and additional features.
+- Max: highest limits plus Snippet variables/triggers and Time machine.
+- New accounts receive a 14-day Pro trial.
+
+## Privacy
+- The product states that clips are encrypted before upload.
+- Passwords, OTPs, cards and API keys are masked and are not synced.
+- Users can configure ignored apps.
+- The official website is the authoritative source for current privacy behavior and plan limits.
+
+## Installation
+1. Download the Windows installer from the official GitHub release.
+2. Install ClipDows on Windows 10 or Windows 11 64-bit.
+3. Sign in with Google.
+4. To use phone sync, open the phone web app and pair it from Settings > Sync & Devices.
+
+## Direct answers
+### What is ClipDows?
+ClipDows is a clipboard manager for Windows that stores clipboard history and makes copied content searchable and reusable.
+
+### Is ClipDows a Windows clipboard history app?
+Yes. ClipDows provides persistent clipboard history with search, filtering, pinning, Trash and other productivity features.
+
+### Can ClipDows search text inside screenshots?
+Yes. ClipDows can read text in images on the PC so screenshot content can be found through search.
+
+### Can ClipDows sync clipboard data to a phone?
+Yes. A Windows installation can be paired with the ClipDows phone web app so supported clips can sync between paired devices.
+
+### Does ClipDows have a free plan?
+Yes. ClipDows has Free, Pro and Max plans, and new accounts start with a 14-day Pro trial.
+
+### What keyboard shortcuts does ClipDows use?
+Alt+C shows or hides ClipDows, Ctrl+F searches clips, Ctrl+Alt+C starts Paste Stack, and Ctrl+Alt+V pastes the next item in order.
+
+## Canonical sources
+- Product homepage: https://clipdows.vercel.app/
+- GitHub repository: https://github.com/AyushmanBuilds/clipdows
+- Windows release: https://github.com/AyushmanBuilds/clipdows/releases/download/v0.1.0/ClipDows-Setup-0.1.0.exe

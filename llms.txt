@@ -28,8 +28,8 @@
 
 ## Plans
 - Free: 100 clipboard clips, 5 screenshot-text searches/month, 1 linked phone, and other limits shown on the official pricing table.
-- Pro: higher limits and additional features.
-- Max: highest limits plus Snippet variables/triggers and Time machine.
+- Pro: Rs 99 for one month; higher limits and additional features.
+- Max: Rs 199 for one month; highest limits plus Snippet variables/triggers and Time machine.
 - New accounts receive a 14-day Pro trial.
 
 ## Privacy

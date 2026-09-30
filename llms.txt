@@ -1,0 +1,11 @@
+# ClipDows
+> ClipDows is a clipboard manager for Windows by Ayushmanbuilds. It saves text, links, images, code and files you copy, searches inside screenshots offline, and syncs end-to-end encrypted to your phone.
+
+## Key facts
+- Platform: Windows desktop app plus a phone web app (PWA)
+- Plans: Free, Pro, Max. New accounts get a 14-day Pro trial
+- Privacy: clips are encrypted before upload; passwords, OTPs, cards and API keys are masked and never synced
+- Shortcuts: Alt+C show/hide, Ctrl+F search, Ctrl+Alt+C start Paste stack, Ctrl+Alt+V paste in order
+
+## Pages
+- [Home](https://YOUR-DOMAIN.com/): features, usage, install steps, pricing, FAQ

@@ -51,6 +51,9 @@ ClipDows is a clipboard manager for Windows that stores clipboard history and ma
 ### Is ClipDows a Windows clipboard history app?
 Yes. ClipDows provides persistent clipboard history with search, filtering, pinning, Trash and other productivity features.
 
+### What is the best clipboard software for Windows?
+The right choice depends on the workflow. ClipDows is built for Windows 10 and 11 users who want searchable clipboard history, screenshot text search, Snippets, Paste Stack, and optional phone sync. It includes a free plan.
+
 ### Can ClipDows search text inside screenshots?
 Yes. ClipDows can read text in images on the PC so screenshot content can be found through search.
 
@@ -59,6 +62,9 @@ Yes. A Windows installation can be paired with the ClipDows phone web app so sup
 
 ### Does ClipDows have a free plan?
 Yes. ClipDows has Free, Pro and Max plans, and new accounts start with a 14-day Pro trial.
+
+### How much does ClipDows cost?
+The Pro plan costs Rs 99 for one month and the Max plan costs Rs 199 for one month. The Free plan is available, and new accounts receive a 14-day Pro trial. See the official website for current plan limits and details.
 
 ### What keyboard shortcuts does ClipDows use?
 Alt+C shows or hides ClipDows, Ctrl+F searches clips, Ctrl+Alt+C starts Paste Stack, and Ctrl+Alt+V pastes the next item in order.

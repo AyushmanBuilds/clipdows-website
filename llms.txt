@@ -26,6 +26,14 @@
 - Can pair a phone and sync supported clipboard data between paired devices.
 - Provides privacy controls including ignored apps and sensitive-data handling.
 
+## Legal and data use
+- Privacy Policy: https://clipdows.vercel.app/privacy
+- Terms and Conditions: https://clipdows.vercel.app/terms
+- Google Sign-In uses only openid, email and profile scopes; no Gmail, Drive or other Google data is accessed.
+
+## Also known as / related searches
+Clipboard manager for Windows, Windows 11 clipboard history, Win+V alternative, copy paste manager, multi-clipboard, paste stack, text snippets, text expander, offline screenshot OCR search, PC to phone clipboard sync.
+
 ## Plans
 - Free: 100 clipboard clips, 5 screenshot-text searches/month, 1 linked phone, and other limits shown on the official pricing table.
 - Pro: Rs 99 for one month; higher limits and additional features.
@@ -73,3 +81,9 @@ Alt+C shows or hides ClipDows, Ctrl+F searches clips, Ctrl+Alt+C starts Paste St
 - Product homepage: https://clipdows.vercel.app/
 - GitHub repository: https://github.com/AyushmanBuilds/clipdows
 - Windows release: https://github.com/AyushmanBuilds/clipdows/releases/download/v0.1.0/ClipDows-Setup-0.1.0.exe
+
+### Is ClipDows a Win+V alternative?
+Yes. It adds long searchable history, screenshot text search, Snippets, Paste Stack, privacy controls and phone sync on top of basic Windows clipboard history.
+
+### Does ClipDows work on Windows 11?
+Yes, on 64-bit Windows 10 and 11.

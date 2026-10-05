@@ -47,7 +47,7 @@ Clipboard manager for Windows, Windows 11 clipboard history, Win+V alternative, 
 - The official website is the authoritative source for current privacy behavior and plan limits.
 
 ## Installation
-1. Download the Windows installer from the official GitHub release.
+1. Install ClipDows from the Microsoft Store: https://apps.microsoft.com/detail/9P6TQ889VGNW?hl=en-us&gl=IN&ocid=pdpshare
 2. Install ClipDows on Windows 10 or Windows 11 64-bit.
 3. Sign in with Google.
 4. To use phone sync, open the phone web app and pair it from Settings > Sync & Devices.
@@ -80,7 +80,7 @@ Alt+C shows or hides ClipDows, Ctrl+F searches clips, Ctrl+Alt+C starts Paste St
 ## Canonical sources
 - Product homepage: https://clipdows.vercel.app/
 - GitHub repository: https://github.com/AyushmanBuilds/clipdows
-- Windows release: https://github.com/AyushmanBuilds/clipdows/releases/download/v0.1.0/ClipDows-Setup-0.1.0.exe
+- Microsoft Store: https://apps.microsoft.com/detail/9P6TQ889VGNW?hl=en-us&gl=IN&ocid=pdpshare
 
 ### Is ClipDows a Win+V alternative?
 Yes. It adds long searchable history, screenshot text search, Snippets, Paste Stack, privacy controls and phone sync on top of basic Windows clipboard history.
